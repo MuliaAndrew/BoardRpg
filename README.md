@@ -1,2 +1,2 @@
-# BoardRpg
-web sevise for administration gurps playrooms
+# BoardRPG
+Web sevise for creation and administration gurps playrooms
